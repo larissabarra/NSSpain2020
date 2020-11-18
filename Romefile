@@ -1,0 +1,15 @@
+cache:
+  local: ~/Library/Caches/Rome
+repositoryMap:
+- RxSwift:
+  - name: RxAtomic 
+  - name: RxSwift
+  - name: RxCocoa
+  - name: RxTest
+  - name: RxBlocking
+- swifter:
+  - name: Swifter
+    platforms: [iOS]
+- SomeModularisedFeature:
+  - name: SomeModularisedFeature
+    platforms: [iOS]
